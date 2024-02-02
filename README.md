@@ -1,3 +1,5 @@
 # Devops
 For Devops
-"I am a Software Developer"
+qr code
+emi
+discount
